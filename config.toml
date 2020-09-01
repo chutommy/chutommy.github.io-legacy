@@ -16,6 +16,8 @@ disqusShortname = "tchu"
 
 [params]
     author = "Tommy Chu"
+    info = "Back-end Developer and Magician"
+    description = "Tommy Chu's personal website"
     keywords = "blog,developer,personal,portfolio"
     avatarurl = "https://avatars1.githubusercontent.com/u/51094650?s=460&u=82181d34d5fa861782c81cb0b48c19268540f97e&v=4"
 
@@ -63,54 +65,18 @@ disqusShortname = "tchu"
     weight = 5
     url = "https://github.com/chutified/portfolio"
 
-[languages]
-    [languages.en]
-        languagename = "English"
+# Menu
+[[menu.main]]
+    name = "About"
+    weight = 1
+    url = "/about/"
 
-        [languages.en.params]
-        info = "Back-End Developer and Magician"
-        description = "Tommy Chu's personal website"
+[[menu.main]]
+    name = "Blog"
+    weight = 2
+    url  = "/posts/"
 
-        # Menu
-        [languages.en.menu]
-
-        [[languages.en.menu.main]]
-        name = "About"
-        weight = 1
-        url = "/en/about/"
-
-        [[languages.en.menu.main]]
-        name = "Blog"
-        weight = 2
-        url  = "/en/posts/"
-
-        [[languages.en.menu.main]]
-        name = "Projects"
-        weight = 3
-        url = "/en/projects/"
-
-
-    [languages.cs]
-        languagename = "Čeština"
-
-        [languages.cs.params]
-        info = "Back-End Vývojář a Kouzelník"
-        description = "Tommy Chu's personal website"
-
-        # Menu
-        [languages.cs.menu]
-
-        [[languages.cs.menu.main]]
-        name = "O mně"
-        weight = 1
-        url = "/cs/about/"
-
-        [[languages.cs.menu.main]]
-        name = "Blog"
-        weight = 2
-        url = "/cs/posts/"
-
-        [[languages.cs.menu.main]]
-        name = "Projekty"
-        weight = 3
-        url = "/cs/projects/"
+[[menu.main]]
+    name = "Projects"
+    weight = 3
+    url = "/projects/"
