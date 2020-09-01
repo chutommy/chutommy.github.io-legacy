@@ -80,3 +80,8 @@ disqusShortname = "tchu"
     name = "Projects"
     weight = 3
     url = "/projects/"
+
+[[menu.main]]
+    name = "Contact"
+    weight = 4
+    url = "/contact/"
