@@ -16,11 +16,11 @@ If you would like to chat about any project,
 please, get in touch with me with the contacts
 below and I will get back within 2-3 days.
 
-#### About me
+### About me
 
 | Key | Value |
 | :--- | :--- |
-| **???????** | *Tommy Chu* |
-| **@@@@** | *chutommy101@gmail.com* |
-| **#######** | *+420 770 653 128* |
-| **&&&&** | Czech Republic, Prague |
+| **Name** | *Tommy Chu* |
+| **Email @** | *chutommy101@gmail.com* |
+| **Mobile #** | *+420 770 653 128* |
+| **Location &** | Prague, Czech Republic|
