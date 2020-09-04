@@ -6,6 +6,10 @@ slug:
 
 ---
 
+---
+
+![Microservice](/img/about/microservice.png)
+
 ## ... a backend developer specializing in microservice architecture
 
 ---
@@ -20,7 +24,9 @@ the stable rock solid codebase.
 
 ---
 
-### Development Skills
+### Development Skills and Tools
+
+![Development tools](/img/about/dev-tools.png)
 
 As a self-taught developer, I gained almost all the knowledge
 and experience from open-source contributions, online courses
@@ -33,36 +39,30 @@ all the time.
 
 #### Summary (TL;DR)
 
-* Backend
-  * SQL (Postgres, MySQL)
-  * NoSQL (MongoDB)
-  * Go
+**Programming languages:**
 
-* Frontend
-  * Javascript
-  * HTML
-  * CSS (+Bootstrap)
+| Backend | Frontend | Other |
+| :--- | :--- | :--- |
+| Go | Javascript | Bash |
+| Postgres | HTML | Markdown |
+| MySQL | CSS + Bootstrap | Vimscript |
+| MongoDB |
 
-* Other programming languages
-  * Bash
-  * Markdown
-  * Vimscript
+**Development tools:**
 
-* Systems
-  * Raspbian (on Raspberry Pi)
-  * Windows
-  * Linux (Fedora, Debian, Ubuntu)
-
-* Development tools
-  * Vim (NeoVim)
-  * Bash terminal
-  * Git (+ GitHub)
-  * Docker (engine, compose)
-  * Google Chrome
-  * curl (REST APIs)
-  * grpcurl (gRPC)
+| Systems | Dev Tools |
+| :--- | :--- |
+| Fedora | Vim (NeoVim) |
+| Debian | Bash terminal |
+| Raspbian | Git (+ GitHub)
+| Ubuntu | Docker (engine, compose)
+| Windows | Google Chrome |
+| | curl (for REST APIs)
+| | grpcurl (for gRPC)
 
 #### Back-end
+
+![Frontend](/img/about/development.png)
 
 For the backend web development, which is my main specialization,
 I prefer to code in my favorite server-side language **Go**, which I am very
@@ -121,3 +121,5 @@ standart for the web development. The **REST APIs** and
 **gRPC** services I am testing with the **curl** and
 **grpcurl** commands, which are very simple, but yet
 extremely powerful.
+
+![Toolkit](/img/about/toolkit.png)
