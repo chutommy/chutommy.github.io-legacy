@@ -1,0 +1,88 @@
+baseURL = "http://example.org/"
+title = "tommychu"
+theme = "hugo-coder"
+languageCode = "en"
+defaultcontentlanguage = "en"
+defaultContentLanguageInSubdir = true
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "tchu"
+
+[params]
+    author = "Tommy Chu"
+    info = "Back-end Developer and Magician"
+    description = "Tommy Chu's personal website"
+    keywords = "blog,developer,personal,portfolio"
+    # avatarurl = "/img/homepage/color.jpg"
+    avatarurl = "/img/homepage/bw.jpg"
+
+    favicon_32 = "/img/favicon-32x32.png"
+    favicon_16 = "/img/favicon-16x16.png"
+
+    footercontent = " "
+
+    hidecredits = false
+    hidecopyright = false
+
+    rtl = false
+
+    math = false
+    # custom_css = ["css/custom.css"]
+
+# Social links
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/chutified/"
+
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin-in fa-2x"
+    weight = 2
+    url = "https://linkedin.com/tommy-chu/"
+
+[[params.social]]
+    name = "Blog"
+    icon = "fab fa-blogger-b fa-2x"
+    weight = 3
+    url = "TODO blog"
+
+[[params.social]]
+    name = "Email"
+    icon = "fas fa-envelope fa-2x"
+    weight = 4
+    url = "mailto:tommychu2256@gmail.com"
+
+[[params.social]]
+    name = "Source code"
+    icon = "fas fa-code fa-2x"
+    weight = 5
+    url = "https://github.com/chutified/portfolio"
+
+# Menu
+[[menu.main]]
+    name = "About"
+    weight = 1
+    url = "/about/"
+
+[[menu.main]]
+    name = "Blog"
+    weight = 2
+    url  = "/posts/"
+
+[[menu.main]]
+    name = "Projects"
+    weight = 3
+    url = "/projects/"
+
+[[menu.main]]
+    name = "Contact"
+    weight = 4
+    url = "/contact/"
