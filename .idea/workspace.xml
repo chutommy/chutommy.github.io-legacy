@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87105cea-4189-4f82-b0c6-4b566d1ea9d9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/gh-pages.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/gh-pages.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/portfolio.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archetypes/default.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/.gitmodules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/archetypes/default.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/config.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/content/about.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/content/contact.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/resources/_gen/assets/scss/scss/coder-rtl.scss_e41e830e7abe1558cd3b4bb294dc3582.content" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/resources/_gen/assets/scss/scss/coder-rtl.scss_e41e830e7abe1558cd3b4bb294dc3582.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/resources/_gen/assets/scss/scss/coder.scss_fd4b5b3f9a48bc0c7f005d2f7a4cc30f.content" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/resources/_gen/assets/scss/scss/coder.scss_fd4b5b3f9a48bc0c7f005d2f7a4cc30f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/static/img/about/dev-tools.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/static/img/about/development.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/static/img/about/microservice.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/static/img/about/toolkit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/static/img/homepage/bw.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/static/img/homepage/color.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/.github/pull_request_template.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/CONTRIBUTORS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/archetypes/default.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/archetypes/posts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/assets/js/dark-mode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/assets/scss/_base.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/assets/scss/_base_dark.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/assets/scss/_base_rtl.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/assets/scss/_content.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/assets/scss/_content_dark.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/assets/scss/_content_rtl.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/assets/scss/_footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/assets/scss/_footer_dark.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/assets/scss/_navigation.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/assets/scss/_navigation_dark.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/assets/scss/_navigation_rtl.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/assets/scss/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/assets/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/assets/scss/coder-dark.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/assets/scss/coder-rtl.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/assets/scss/coder.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/exampleSite/config.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/exampleSite/content/about.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/exampleSite/content/about.pt-br.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/exampleSite/content/contact.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/exampleSite/content/contact.pt-br.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/exampleSite/content/posts/creating-a-new-theme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/exampleSite/content/posts/dummy.pt-br.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/exampleSite/content/posts/external-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/exampleSite/content/posts/goisforlovers.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/exampleSite/content/posts/hugoisforlovers.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/exampleSite/content/posts/migrate-from-jekyll.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/exampleSite/content/posts/render-latex-using-katex.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/exampleSite/content/posts/theme-demo.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/exampleSite/content/posts/twemoji-support.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/exampleSite/content/projects.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/exampleSite/content/projects.pt-br.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/exampleSite/content/snippets/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/exampleSite/content/snippets/first/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/exampleSite/content/snippets/second/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/exampleSite/layouts/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/exampleSite/static/images/N90.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/exampleSite/static/images/avatar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/exampleSite/static/images/favicon-16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/exampleSite/static/images/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/i18n/ar.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/i18n/de.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/i18n/en.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/i18n/es.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/i18n/fi.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/i18n/fr.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/i18n/he.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/i18n/hi.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/i18n/hu.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/i18n/it.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/i18n/ja.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/i18n/nl.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/i18n/pl.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/i18n/pt-br.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/i18n/ro.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/i18n/ru.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/i18n/se.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/i18n/sk.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/i18n/tr.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/i18n/zh-cn.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/images/logos/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/images/logos/favicon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/images/logos/logomark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/images/logos/logomark.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/images/logos/logotype-a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/images/logos/logotype-a.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/images/logos/logotype-b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/images/logos/logotype-b.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/images/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/images/tn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/layouts/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/layouts/_default/baseof.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/layouts/_default/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/layouts/_default/single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/layouts/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/layouts/partials/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/layouts/partials/analytics/fathom.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/layouts/partials/analytics/plausible.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/layouts/partials/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/layouts/partials/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/layouts/partials/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/layouts/partials/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/layouts/partials/page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/layouts/partials/pagination.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/layouts/partials/posts/commento.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/layouts/partials/posts/disqus.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/layouts/partials/posts/math.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/layouts/partials/posts/series.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/layouts/partials/posts/utterances.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/layouts/partials/taxonomy/categories.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/layouts/partials/taxonomy/tags.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/layouts/posts/li.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/layouts/posts/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/layouts/posts/single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/netlify.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/resources/_gen/assets/js/js/dark-mode.js_d11fe7b62c27961c87ecd0f2490357b9.content" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/resources/_gen/assets/js/js/dark-mode.js_d11fe7b62c27961c87ecd0f2490357b9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/resources/_gen/assets/scss/scss/coder-dark.scss_1fcd9040f1144c65015c77e7b93bc5ac.content" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/resources/_gen/assets/scss/scss/coder-dark.scss_1fcd9040f1144c65015c77e7b93bc5ac.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/resources/_gen/assets/scss/scss/coder.scss_5e1eb8e37c42cdfb6215b61e44dcfa5f.content" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/resources/_gen/assets/scss/scss/coder.scss_5e1eb8e37c42cdfb6215b61e44dcfa5f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/stackbit.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/themes/hugo-coder/theme.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/images/404_huf404c6818e5475c7870a4722b4efea20_110323_1500x0_resize_box_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/images/default-avatar_hu9bf48a08e17db6472c2e32b73058a6bb_47653_148x148_fit_box_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/images/default-background_hu3d03a01dcc18bc5be0e67db3d8d209a6_1182514_1200x0_resize_q75_box.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/images/default-background_hu3d03a01dcc18bc5be0e67db3d8d209a6_1182514_1500x0_resize_q75_box.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/images/default-background_hu3d03a01dcc18bc5be0e67db3d8d209a6_1182514_500x0_resize_q75_box.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/images/default-background_hu3d03a01dcc18bc5be0e67db3d8d209a6_1182514_800x0_resize_q75_box.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/images/default-hero_hu37f88119bb88d50a62cf30a7c95a3554_71072_148x0_resize_q75_box.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/images/favicon_hu8376fd15465fef26ffe66b6bcf0ca686_13669_42x0_resize_box_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/images/inverted-logo_hu8376fd15465fef26ffe66b6bcf0ca686_13669_42x0_resize_box_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/images/main-logo_hu864bbe108f1be1ae04b57f7f2fd9d631_5637_42x0_resize_box_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/images/theme-logo_hu8376fd15465fef26ffe66b6bcf0ca686_13669_32x0_resize_box_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/toha" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1ppvhXU4vdEijRweJG66sNe5h3h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87105cea-4189-4f82-b0c6-4b566d1ea9d9" name="Default Changelist" comment="" />
+      <created>1615892967312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615892967312</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
