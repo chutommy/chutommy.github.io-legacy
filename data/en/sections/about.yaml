@@ -1,0 +1,59 @@
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# designation
+designation: Software Engineer
+# company information
+#company:
+#  name: Freelancing
+#  url: "https://www.example.com"
+
+resume: "files/resume.pdf"
+
+# a summary
+summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for
+[Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes.
+Sometimes, I work on some fun projects such as writing a theme, etc.'
+
+# social links
+# use font-awesome for the icons
+socialLinks:
+  - name: Github
+    icon: "fab fa-github"
+    url: "https://github.com/chutified/chutified.github.io"
+
+  - name: Stack Overflow
+    icon: "fab fa-stack-overflow"
+    url: "https://stackoverflow.com/users/13022894/tommy?tab=profile"
+
+  - name: Fiverr
+    icon: "fas fa-briefcase"
+    url: "https://www.fiverr.com/chutified"
+
+# soft skills
+# the percentage between 50 to 100 with 5 intervals
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+  - name: Teamwork
+    percentage: 95
+    color: yellow
+  - name: Communication
+    percentage: 90
+    color: pink
+  - name: Accountability
+    percentage: 95
+    color: orange
+  - name: Fast Learner
+    percentage: 90
+    color: green
+  - name: Problem Solving
+    percentage: 95
+    color: blue
+  - name: Creativity
+    percentage: 85
+    color: sky
