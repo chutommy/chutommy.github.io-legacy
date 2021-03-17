@@ -1,9 +1,9 @@
 # Copyright Notice
-copyright: © 2020 Copyright.
+copyright: © 2021 Copyright.
 
 # meta description for the site
-description: Portfolio and personal blog of John Doe.
+description: Portfolio and personal blog of Tommy Chu.
 
 customMenus:
-  - name: Source
-    url: https://github.com/chutified/chutified.github.io
+#  - name: Source
+#    url: https://github.com/chutified/chutified.github.io
