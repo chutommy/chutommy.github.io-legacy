@@ -1,0 +1,9 @@
+# Copyright Notice
+copyright: © 2020 Copyright.
+
+# meta description for the site
+description: Portfolio and personal blog of John Doe.
+
+customMenus:
+  - name: Source
+    url: https://github.com/chutified/chutified.github.io
