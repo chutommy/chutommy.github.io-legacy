@@ -1,16 +1,19 @@
 name: "Tommy Chu"
 nickname: "Tommy"
-greeting: "Hey, I am"
-#image: "images/author/john.png"
+image: /images/author/profile-bw.jpg
+
 contactInfo:
   email: "chutommy101@gmail.com"
   phone: "+420 770 653 128"
 
+greeting: "Hi, I am"
+
 summary:
   - I am a Developer
   - I am a DevOps
+  - I am a Magician
   - I like exploring new things
   - I love learning new skills
   - I enjoy contributing to open-source
-  - I love to work with some fun projects
+  - I work with Go
   - How can I help?

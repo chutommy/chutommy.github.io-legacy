@@ -10,15 +10,29 @@ section:
 designation: Software Engineer
 # company information
 #company:
-#  name: Freelancing
-#  url: "https://www.example.com"
+#  name: Home
+#  url: "#about"
 
 resume: "files/resume.pdf"
 
 # a summary
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for
-[Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes.
-Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: "
+I am a passionate self-taught software engineer. I built all kinds of back-end services
+using [Go](https://golang.org/). My projects support businesses to meet their clients' requirements.
+My services help people to solve their problems. And sometimes, I just enjoy contributing to
+[Open Source](https://github.com/chutified) projects.
+
+***
+
+**I always do ...**
+
+* build **scalable** and **easy to maintain** services through **clean** and **carefully crafted** code
+
+
+* deliver **fast** and **reliable** software using **modern** technologies and approaches
+
+* follow **best** practices and principles to achieve a **rock-solid** codebase
+"
 
 # social links
 # use font-awesome for the icons
@@ -31,9 +45,17 @@ socialLinks:
     icon: "fab fa-stack-overflow"
     url: "https://stackoverflow.com/users/13022894/tommy?tab=profile"
 
+  - name: Posts
+    icon: "fas fa-blog"
+    url: "https://chutified.github.io/posts/"
+
   - name: Fiverr
     icon: "fas fa-briefcase"
     url: "https://www.fiverr.com/chutified"
+
+  - name: Email
+    icon: "fas fa-envelope"
+    url: "chutommy101@gmail.com"
 
 # soft skills
 # the percentage between 50 to 100 with 5 intervals
@@ -42,18 +64,23 @@ softSkills:
   - name: Teamwork
     percentage: 95
     color: yellow
+
   - name: Communication
     percentage: 90
     color: pink
+
   - name: Accountability
     percentage: 95
     color: orange
+
   - name: Fast Learner
     percentage: 90
     color: green
+
   - name: Problem Solving
     percentage: 95
     color: blue
+
   - name: Creativity
     percentage: 85
     color: sky
