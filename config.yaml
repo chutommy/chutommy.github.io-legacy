@@ -22,7 +22,7 @@ enableEmoji: true
 
 # site parameters
 params:
-  gitRepo: https://github.com/chutified/chutified.github.io
+  gitRepo: https://github.com/chutified/chutified.github.io/tree/main
 
   enableBlogPost: true
   enableTOC: true
@@ -30,3 +30,13 @@ params:
 # provide newsletter configuration
   newsletter:
     enable: true
+
+# site parameters
+  background: /images/site/background.png
+
+# The inverted logo will be used in the initial transparent navbar and
+# the main logo will be used in the non-transparent navbar.
+  logo:
+    main: /images/site/logo-dark.png
+    inverted: /images/site/logo-nocirc.png
+    favicon: /images/site/logo-fav.png
