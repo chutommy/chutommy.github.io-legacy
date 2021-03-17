@@ -1,0 +1,24 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  hideTitle: true
+
+# Your experiences
+experiences:
+  - company:
+      name: GitHub
+      url: "https://www.github.com/chutified"
+      location: Remote
+      overview: Contribute to both private and open-source projects.
+    positions:
+      - designation: Open Source Contributor
+        start: Jan 2021
+        # end: Jan 2021
+        responsibilities:
+          - Communicate with other developers.
+          - Design and implementing new features.
+          - Fixing and solving bugs with other clients' issues.
