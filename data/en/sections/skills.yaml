@@ -4,20 +4,54 @@ section:
   enable: true
   weight: 2
   showOnNavbar: true
-  # hideTitle: true
+#  hideTitle: false
 
 # skills
 skills:
-  - name: Kubernetes
-    icon: "/images/sections/skills/kubernetes.png"
-    summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-    url: "https://kubernetes.io/"
-
-  - name: Go Development
-    icon: "/images/sections/skills/go.png"
-    summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  - name: Go
+    logo: "/images/sections/skills/go.svg"
+    summary: "
+    Using as the main language for professional development. Capable of writing scalable, reliable and maintainable
+    programs. Experienced in developing all kind of APIs and microservices.
+    "
     url: "https://golang.org/"
 
-  - name: Cloud Computing
-    icon: "/images/sections/skills/cloud.png"
-    summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  - name: Postgres
+    logo: "/images/sections/skills/postgres.svg"
+    summary: "
+    Capable of designing and managing databases in most popular DBMSs such as Postgres, MySQL, Mongo or Redis.
+    Also used to write fast and effective application queries.
+    "
+    url: "https://www.postgresql.org/"
+
+  - name: gRPC
+    logo: "/images/sections/skills/grpc.svg"
+    summary: "
+    Love reusability, love independence, love microservice's concepts. Capable of properly implementing
+    maintainable microservice architecture for the best application's performance and lowest cost of the network.
+    "
+    url: "https://grpc.io/"
+
+  - name: Docker
+    logo: "/images/sections/skills/docker.svg"
+    summary: "
+    Dockerizing everything that should be containerized. Used for ease of deployment and to prevent headaches.
+    Also use various dockerized tools for the development.
+    "
+    url: "https://www.docker.com/"
+
+  - name: Git
+    logo: "/images/sections/skills/git.svg"
+    summary: "
+    Experienced with git based development. Contributed to some Open Projects. Effective and proficient
+    in the Github environment (PRs, Actions, bots etc.).
+    "
+    url: "https://git-scm.com/"
+
+  - name: Linux
+    logo: "/images/sections/skills/linux.svg"
+    summary: "
+    The main operating system for both personal and professional use. Capable of deploying and managing servers
+    with most of the major distros such as Ubuntu, Debian, or Fedora.
+    "
+    url: "https://www.linux.org/"
