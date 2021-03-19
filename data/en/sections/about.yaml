@@ -49,9 +49,9 @@ socialLinks:
     icon: "fas fa-blog"
     url: "https://chutified.github.io/posts/"
 
-#  - name: Work
-#    icon: "fas fa-briefcase"
-#    url: "#"
+  #  - name: Work
+  #    icon: "fas fa-briefcase"
+  #    url: "#"
 
   - name: Email
     icon: "fas fa-envelope"

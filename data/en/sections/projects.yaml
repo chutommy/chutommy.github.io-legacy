@@ -10,8 +10,8 @@ section:
 buttons:
   - name: All
     filter: "all"
-#  - name: Professional
-#    filter: "professional"
+  #  - name: Professional
+  #    filter: "professional"
   - name: Academic
     filter: "academic"
   - name: Hobby
