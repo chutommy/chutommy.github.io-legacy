@@ -11,24 +11,16 @@ skills:
   - name: Go
     logo: "/images/sections/skills/go.svg"
     summary: "
-    Using as the main language for professional development. Capable of writing scalable, reliable and maintainable
+    Using as the main language for development. Capable of writing scalable, reliable and maintainable
     programs. Experienced in developing all kind of APIs and microservices.
     "
     url: "https://golang.org/"
 
-  - name: Postgres
-    logo: "/images/sections/skills/postgres.svg"
-    summary: "
-    Capable of designing and managing databases in most popular DBMSs such as Postgres, MySQL, Mongo or Redis.
-    Also used to write fast and effective application queries.
-    "
-    url: "https://www.postgresql.org/"
-
   - name: gRPC
     logo: "/images/sections/skills/grpc.svg"
     summary: "
-    Love reusability, love independence, love microservice's concepts. Capable of properly implementing
-    maintainable microservice architecture for the best application's performance and lowest cost of the network.
+    Capable of properly implementing independent and maintainable gRPC microservices with great performance and low
+    network cost.
     "
     url: "https://grpc.io/"
 
@@ -40,13 +32,45 @@ skills:
     "
     url: "https://www.docker.com/"
 
+  - name: Postgres
+    logo: "/images/sections/skills/postgres.svg"
+    summary: "
+    Experienced in designing and deploying Postgres databases. Capable of smooth, maintainable and safe integration
+    into Go applications.
+    "
+    url: "https://www.postgresql.org/"
+
+  - name: Redis
+    logo: "/images/sections/skills/redis.svg"
+    summary: "
+    Enjoying caching with Redis (mainly in my personal projects). Always happy to implement Redis if it is needed
+    or if the performance is the number one priority.
+    "
+    url: "https://redis.io/"
+
+  - name: MySQL
+    logo: "/images/sections/skills/mysql.svg"
+    summary: "
+    Took part in developments of services with MySQL databases. MySQL performs extremely well in most cases.
+    It is reliable and well-known among developers.
+    "
+    url: "https://www.mysql.com/"
+
   - name: Git
     logo: "/images/sections/skills/git.svg"
     summary: "
-    Experienced with git based development. Contributed to some Open Projects. Effective and proficient
-    in the Github environment (PRs, Actions, bots etc.).
+    Experienced with git based development. Contributed to some Open Source projects. Effective and proficient
+    in Github environment (PRs, Actions, bots, etc.).
     "
     url: "https://git-scm.com/"
+
+  - name: DigitalOcean
+    logo: "/images/sections/skills/do.svg"
+    summary: "
+    Capable of deploying highly-available services on DigitalOcean cloud computing platform and managing
+    and scaling the infrastructure.
+    "
+    url: "https://www.digitalocean.com/"
 
   - name: Linux
     logo: "/images/sections/skills/linux.svg"
