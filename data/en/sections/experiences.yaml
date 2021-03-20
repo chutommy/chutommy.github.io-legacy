@@ -3,12 +3,28 @@ section:
   name: Experiences
   id: experiences
   enable: true
-  weight: 3
+  weight: 4
   showOnNavbar: true
   hideTitle: true
 
 # Your experiences
 experiences:
+  - company:
+      name: Project repository
+      url: "https://github.com/chutified/observer-rpi"
+      location: Gymnázium Budějovická
+      overview: Engineered a Raspberry Pi face tracking device using Go and OpenCV 4 technology.
+    positions:
+      - designation: Student
+        start: Nov 2019
+        end: June 2020
+        responsibilities:
+          - Design and construct the skeleton of the device.
+          - Calculate movements and ensure cooperation of the servomotors.
+          - Wired all IoT parts up and set the system to be fully compatible with dependencies.
+          - Code all the logic behind the bot's behaviour and deploy it to the RPi.
+          - Write a comprehensive documentation of the creation process from start to finish.
+
   - company:
       name: GitHub
       url: "https://www.github.com/chutified"
@@ -16,9 +32,10 @@ experiences:
       overview: Contribute to both private and open-source projects.
     positions:
       - designation: Open Source Contributor
-        start: Jan 2021
+        start: Dec 2020
         # end: Jan 2021
         responsibilities:
           - Communicate with other developers.
-          - Design and implementing new features.
-          - Fixing and solving bugs with other clients' issues.
+          - Design and implement new features.
+          - Suggest new and alternative solutions.
+          - Fix bugs and solve issues.
