@@ -39,7 +39,7 @@ My services help people to solve their problems. And sometimes, I just enjoy con
 socialLinks:
   - name: Github
     icon: "fab fa-github"
-    url: "https://github.com/chutified/chutified.github.io"
+    url: "https://github.com/chutified"
 
   - name: Stack Overflow
     icon: "fab fa-stack-overflow"
