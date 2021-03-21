@@ -10,37 +10,66 @@ section:
 buttons:
   - name: All
     filter: "all"
-  #  - name: Professional
-  #    filter: "professional"
+  - name: Open Source
+    filter: "open-source"
   - name: Academic
     filter: "academic"
   - name: Hobby
     filter: "hobby"
 
-# projects
 projects:
-  - name: Kubernetes
-    logo: /images/sections/projects/kubernetes.png
-    role: Contributor
-    timeline: "March 2018 - Present"
-    repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-    #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-    summary: Production-Grade Container Scheduling and Management.
-    tags: ["professional", "kubernetes", "cloud"]
-
-  - name: Tensorflow
-    logo: /images/sections/projects/tensorflow.png
+  - name: SmartPasswd
+    logo: /images/sections/projects/passwd.png
     role: Developer
-    timeline: "Jun 2018 - Present"
-    repo: https://github.com/tensorflow/tensorflow
-    #url: ""
-    summary: An Open Source Machine Learning Framework for Everyone.
-    tags: ["professional", "machine-learning","academic"]
+    timeline: "Summer 2020"
+    url: https://github.com/chutified/smart-passwd
+    summary: Smart password generator of extremely safe and yet very easy to remember passwords.
+    tags: ["academic", "open-source", "security"]
+
+  - name: Siu CLI
+    logo: /images/sections/projects/siu.png
+    role: Developer
+    timeline: "May - September 2020"
+    url: https://github.com/chutified/siu-cli
+    summary: Productivity CLI tool to speed up the command line + browser workflow. Allow to open multiple web pages with predefined URLs.
+    tags: ["open-source", "hobby", "cli-tool"]
+
+  - name: prOndru
+    logo: /images/sections/projects/prondru.png
+    role: Developer
+    timeline: "January 2021"
+    url: CLI for Office of Scientific and Technical Information API
+    summary: CLI tool to interract with the Office of Scientific and Technical Information API.
+    tags: ["hobby", "cli-tool", "open-source", "api"]
 
   - name: Toha
     logo: /images/sections/projects/toha.png
-    role: Owner
-    timeline: "Jun 2019 - Present"
-    repo: https://github.com/hossainemruz/toha
-    summary: A Hugo theme for personal portfolio.
-    tags: ["hobby","hugo","theme","professional"]
+    role: Contributor
+    timeline: "March 2021 - Present"
+    repo: https://github.com/hugo-toha/toha
+    summary: A Hugo theme for a personal portfolio with minimalist design and responsiveness.
+    tags: ["hobby", "hugo-theme", "open-source"]
+
+  - name: sqlc
+    logo: /images/sections/projects/sqlc.png
+    role: Contributor
+    timeline: "February 2021 - Present"
+    repo: https://github.com/kyleconroy/sqlc
+    summary: Generator of the fully-type safe idiomatic Go code from SQL.
+    tags: ["open-source", "dev-tool", "cloud"]
+
+  - name: Observer
+    logo: /images/sections/projects/observer.png
+    role: Developer
+    timeline: "February 2021 - Present"
+    url: https://github.com/chutified/observer-rpi
+    summary: Software for a reliable face recognition and face tracking written in Go. Deployable on Raspberry Pi.
+    tags: ["academic", "open-source", "iot"]
+
+  - name: Rand
+    logo: images/sections/projects/rand.png
+    role: Developer
+    timeline: "August 2020 - Present"
+    url: https://github.com/chutified/rand
+    summary: Clean and easy to use random Go package with a true random generator.
+    tags: ["hobby", "open-source", "go-package"]
