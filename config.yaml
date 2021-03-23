@@ -24,7 +24,7 @@ enableEmoji: true
 params:
   gitRepo: https://github.com/chutified/chutified.github.io/tree/main
 
-  enableBlogPost: true
+  enableBlogPost: false
   enableTOC: true
 
 # provide newsletter configuration
