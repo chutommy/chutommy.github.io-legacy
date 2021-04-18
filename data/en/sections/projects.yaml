@@ -71,5 +71,5 @@ projects:
     role: Developer
     timeline: "August 2020 - Present"
     url: https://github.com/chutified/rand
-    summary: Clean and easy to use random Go package with a true random generator.
+    summary: Clean and easy to use Go random package with a true random generator.
     tags: ["hobby", "open-source", "go-package"]
