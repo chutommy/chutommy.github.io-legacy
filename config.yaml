@@ -29,7 +29,7 @@ params:
 
 # provide newsletter configuration
   newsletter:
-    enable: true
+    enable: false
 
 # site parameters
   background: /images/site/background.png
