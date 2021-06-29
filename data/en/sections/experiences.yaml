@@ -26,6 +26,22 @@ experiences:
           - Write a comprehensive documentation of the creation process from start to finish.
 
   - company:
+      name: Website
+      url: "https://chutified.github.io/smart-passwd/"
+      location: Prague
+      overview: Developed and deployed a full fledged website for smart and strong password generating.
+    positions:
+      - designation: SmartPasswd Developer
+        start: June 2020
+        end: May 2021
+        responsibilities:
+          - Design and implement the software architecture.
+          - Model and apply the UX/UI design.
+          - Write CI/CD and automated tests.
+          - Optimize performance and build PWA.
+          - Implement server operations as WebAssembly code.
+
+  - company:
       name: GitHub
       url: "https://www.github.com/chutified"
       location: Remote
