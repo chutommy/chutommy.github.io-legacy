@@ -11,7 +11,7 @@ section:
 experiences:
   - company:
       name: Project repository
-      url: "https://github.com/chutified/observer-rpi"
+      url: "https://github.com/chutommy/observer-rpi"
       location: Gymnázium Budějovická
       overview: Engineered a Raspberry Pi face tracking device using Go and OpenCV 4 technology.
     positions:
@@ -27,7 +27,7 @@ experiences:
 
   - company:
       name: Website
-      url: "https://chutified.github.io/smart-passwd/"
+      url: "https://chutommy.github.io/smart-passwd/"
       location: Prague
       overview: Developed and deployed a full fledged website for smart and strong password generating.
     positions:
@@ -43,7 +43,7 @@ experiences:
 
   - company:
       name: GitHub
-      url: "https://www.github.com/chutified"
+      url: "https://www.github.com/chutommy"
       location: Remote
       overview: Contribute to both private and open-source projects.
     positions:

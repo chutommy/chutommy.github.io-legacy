@@ -20,7 +20,7 @@ summary: "
 I am a passionate self-taught software engineer. I built all kinds of back-end services
 using [Go](https://golang.org/). My projects support businesses to meet their clients' requirements.
 My services help people to solve their problems. And sometimes, I just enjoy contributing to
-[Open Source](https://github.com/chutified) projects.
+[Open Source](https://github.com/chutommy) projects.
 
 ***
 
@@ -39,7 +39,7 @@ My services help people to solve their problems. And sometimes, I just enjoy con
 socialLinks:
   - name: Github
     icon: "fab fa-github"
-    url: "https://github.com/chutified"
+    url: "https://github.com/chutommy"
 
   - name: Stack Overflow
     icon: "fab fa-stack-overflow"
@@ -47,7 +47,7 @@ socialLinks:
 
   - name: Posts
     icon: "fas fa-blog"
-    url: "https://chutified.github.io/posts/"
+    url: "https://chutommy.github.io/posts/"
 
   #  - name: Work
   #    icon: "fas fa-briefcase"

@@ -1,4 +1,4 @@
-baseURL: https://chutified.github.io
+baseURL: https://chutommy.github.io
 
 languageCode: en-us
 title: "Tommy Chu"
@@ -22,7 +22,7 @@ enableEmoji: true
 
 # site parameters
 params:
-  gitRepo: https://github.com/chutified/chutified.github.io/tree/main
+  gitRepo: https://github.com/chutommy/chutommy.github.io/tree/main
 
   enableBlogPost: false
   enableTOC: true
