@@ -62,7 +62,7 @@ projects:
     logo: /images/sections/projects/observer.png
     role: Developer
     timeline: "February 2021 - Present"
-    url: https://github.com/chutommy/observer-rpi
+    url: https://github.com/chutommy/observer
     summary: Software for a reliable face recognition and face tracking written in Go. Deployable on Raspberry Pi.
     tags: ["academic", "open-source", "iot"]
 
