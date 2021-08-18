@@ -20,6 +20,9 @@ markup:
 # enable global emoji support
 enableEmoji: true
 
+# enable analytics
+googleAnalytics: "G-0YJQKTMK6Y"
+
 # site parameters
 params:
   gitRepo: https://github.com/chutommy/chutommy.github.io/tree/main
