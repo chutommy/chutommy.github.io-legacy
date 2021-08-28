@@ -62,25 +62,25 @@ socialLinks:
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
   - name: Teamwork
-    percentage: 95
+    percentage: 100
     color: yellow
 
   - name: Communication
-    percentage: 90
+    percentage: 100
     color: pink
 
   - name: Accountability
-    percentage: 95
+    percentage: 100
     color: orange
 
   - name: Fast Learner
-    percentage: 90
+    percentage: 100
     color: green
 
   - name: Problem Solving
-    percentage: 95
+    percentage: 100
     color: blue
 
   - name: Creativity
-    percentage: 85
+    percentage: 100
     color: sky
