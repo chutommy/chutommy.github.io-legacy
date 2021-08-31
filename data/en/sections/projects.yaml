@@ -38,7 +38,7 @@ projects:
     logo: /images/sections/projects/prondru.png
     role: Developer
     timeline: "January 2021"
-    url: https://github.com/chutommy/prondru
+    url: https://chutommy.github.io/prondru/
     summary: CLI tool to interract with the Office of Scientific and Technical Information API.
     tags: ["hobby", "cli-tool", "open-source", "api"]
 
@@ -70,7 +70,7 @@ projects:
     logo: images/sections/projects/rand.png
     role: Developer
     timeline: "August 2020 - Present"
-    url: https://github.com/chutommy/rand
+    url: https://chutommy.github.io/rand/
     summary: Clean and easy to use Go random package with a true random generator.
     tags: ["hobby", "open-source", "go-package"]
 
