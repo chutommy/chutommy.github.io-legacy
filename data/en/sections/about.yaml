@@ -17,21 +17,22 @@ resume: "files/resume.pdf"
 
 # a summary
 summary: "
-I am a passionate self-taught software engineer. I built all kinds of back-end services
-using [Go](https://golang.org/). My projects support businesses to meet their clients' requirements.
-My services help people to solve their problems. And sometimes, I just enjoy contributing to
-[Open Source](https://github.com/chutommy) projects.
+I'm a passionate self-taught software engineer. I built mainly back-end services
+using [Go](https://golang.org/). My projects help businesses to meet their clients' requirements.
+My services solve both general and specific business problems. I'm a big fan of
+[Open Source](https://github.com/chutommy) projects that I'm very happy to contribute to, especially if
+I use them on a daily basis.
 
 ***
 
-**I always do ...**
+**I'm in the habit of writing quality and reliable code:**
 
-* build **scalable** and **easy to maintain** services through **clean** and **carefully crafted** code
+* I build **scalable** and **easy to maintain** services through **clean** and **carefully crafted** code
 
 
-* deliver **fast** and **reliable** software using **modern** technologies and approaches
+* I deliver **fast** and **reliable** software using **modern** technologies and approaches
 
-* follow the **best** practices and principles to achieve a **rock-solid** codebase
+* I follow **best** practices and principles to achieve **rock-solid** codebases
 "
 
 # social links

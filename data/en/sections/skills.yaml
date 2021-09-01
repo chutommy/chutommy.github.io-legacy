@@ -43,7 +43,7 @@ skills:
   - name: Redis
     logo: "/images/sections/skills/redis.svg"
     summary: "
-    Enjoying caching with Redis (mainly in my personal projects). Always happy to implement Redis if it is needed
+    Enjoying caching with Redis (mainly in personal projects). Always happy to implement Redis if it is required
     or if the performance is the number one priority.
     "
     url: "https://redis.io/"
@@ -59,7 +59,7 @@ skills:
   - name: Git
     logo: "/images/sections/skills/git.svg"
     summary: "
-    Experienced with git based development. Contributed to some Open Source projects. Effective and proficient
+    Experienced with git based development. Contributed to various open-source projects. Effective and proficient
     in Github environment (PRs, Actions, bots, etc.).
     "
     url: "https://git-scm.com/"

@@ -10,8 +10,8 @@ section:
 # Your experiences
 experiences:
   - company:
-      name: Project repository
-      url: "https://github.com/chutommy/observer-rpi"
+      name: Project Website
+      url: "https://chutommy.github.io/observer"
       location: Gymnázium Budějovická
       overview: Engineered a Raspberry Pi face tracking device using Go and OpenCV 4 technology.
     positions:
@@ -21,13 +21,13 @@ experiences:
         responsibilities:
           - Design and construct the skeleton of the device.
           - Calculate movements and ensure cooperation of the servomotors.
-          - Wired all IoT parts up and set the system to be fully compatible with dependencies.
+          - Wire all IoT parts up and set the system to be fully compatible with the software.
           - Code all the logic behind the bot's behaviour and deploy it to the RPi.
           - Write a comprehensive documentation of the creation process from start to finish.
 
   - company:
-      name: Website
-      url: "https://chutommy.github.io/smart-passwd/"
+      name: Web application
+      url: "https://chutommy.github.io/smart-passwd"
       location: Prague
       overview: Developed and deployed a full fledged website for smart and strong password generating.
     positions:
@@ -36,10 +36,10 @@ experiences:
         end: May 2021
         responsibilities:
           - Design and implement the software architecture.
-          - Model and apply the UX/UI design.
-          - Write CI/CD and automated tests.
-          - Optimize performance and build PWA.
-          - Implement server operations as WebAssembly code.
+          - Draft and apply the UX/UI design principles.
+          - Write CI/CD and full coverage tests.
+          - Optimize performance and integrate the PWA.
+          - Implement server operations as a WebAssembly code.
 
   - company:
       name: GitHub
@@ -54,4 +54,4 @@ experiences:
           - Communicate with other developers.
           - Design and implement new features.
           - Suggest new and alternative solutions.
-          - Fix bugs and solve issues.
+          - Discover and fix bugs, solve issues.

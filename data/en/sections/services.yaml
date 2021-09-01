@@ -30,7 +30,7 @@ skills:
   - name: Web Scraping
     logo: "/images/sections/services/web-scraping.svg"
     summary: "
-  Build legitimate bots to crawl site(s) and scrap required data to process. Always tolerate robots exclusion protocol.
+  Build legitimate bots to crawl website(s) and scrap required data to process. Always tolerate robots exclusion protocol.
   "
 
   - name: Cloud Application Deployment
