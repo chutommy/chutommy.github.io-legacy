@@ -42,9 +42,9 @@ socialLinks:
     icon: "fab fa-github"
     url: "https://github.com/chutommy"
 
-  - name: Stack Overflow
-    icon: "fab fa-stack-overflow"
-    url: "https://stackoverflow.com/users/13022894/tommy?tab=profile"
+  #  - name: Stack Overflow
+  #    icon: "fab fa-stack-overflow"
+  #    url: "https://stackoverflow.com/users/13022894/tommy?tab=profile"
 
   - name: Posts
     icon: "fas fa-blog"
