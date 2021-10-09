@@ -22,7 +22,7 @@ projects:
     logo: /images/sections/projects/passwd.png
     role: Developer
     timeline: "Summer 2020"
-    url: https://chutommy.github.io/smart-passwd
+    url: https://chutommy.com/smart-passwd
     summary: Smart password generator of extremely safe and yet very easy to remember passwords.
     tags: ["academic", "open-source", "security"]
 
@@ -38,7 +38,7 @@ projects:
     logo: /images/sections/projects/prondru.png
     role: Developer
     timeline: "January 2021"
-    url: https://chutommy.github.io/prondru
+    url: https://chutommy.com/prondru
     summary: CLI tool to interract with the Office of Scientific and Technical Information API.
     tags: ["hobby", "cli-tool", "open-source", "api"]
 
@@ -62,7 +62,7 @@ projects:
     logo: /images/sections/projects/observer.png
     role: Developer
     timeline: "February 2021 - Present"
-    url: https://chutommy.github.io/observer
+    url: https://chutommy.com/observer
     summary: Software for a reliable face recognition and face tracking written in Go. Deployable on Raspberry Pi.
     tags: ["academic", "open-source", "iot"]
 
@@ -70,7 +70,7 @@ projects:
     logo: images/sections/projects/rand.png
     role: Developer
     timeline: "August 2020 - Present"
-    url: https://chutommy.github.io/rand
+    url: https://chutommy.com/rand
     summary: Clean and easy to use Go random package with a true random generator.
     tags: ["hobby", "open-source", "go-package"]
 
@@ -78,6 +78,6 @@ projects:
     logo: images/sections/projects/babis.png
     role: Contributor
     timeline: "April 2021"
-    url: https://chutommy.github.io/babis-calculator
+    url: https://chutommy.com/babis-calculator
     summary: Small app that displays how much money Andrej Babiš gained since the user started the page.
     tags: ["hobby", "open-source"]
