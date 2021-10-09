@@ -11,7 +11,7 @@ section:
 experiences:
   - company:
       name: Project Website
-      url: "https://chutommy.com/observer"
+      url: "https://chutommy.github.io/observer"
       location: Gymnázium Budějovická
       overview: Engineered a Raspberry Pi face tracking device using Go and OpenCV 4 technology.
     positions:
@@ -27,7 +27,7 @@ experiences:
 
   - company:
       name: Web application
-      url: "https://chutommy.com/smart-passwd"
+      url: "https://chutommy.github.io/smart-passwd"
       location: Prague
       overview: Developed and deployed a full fledged website for smart and strong password generating.
     positions:
