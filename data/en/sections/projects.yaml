@@ -21,7 +21,7 @@ projects:
   - name: SmartPasswd
     logo: /images/sections/projects/passwd.png
     role: Developer
-    timeline: "Summer 2020"
+    timeline: "June - September 2020"
     url: https://chutommy.com/smart-passwd
     summary: Smart password generator of extremely safe and yet very easy to remember passwords.
     tags: ["academic", "open-source", "security"]
@@ -29,7 +29,7 @@ projects:
   - name: Siu CLI
     logo: /images/sections/projects/siu.png
     role: Developer
-    timeline: "May - September 2020"
+    timeline: "April - June 2020"
     url: https://github.com/chutommy/siu-cli
     summary: Productivity CLI tool to speed up the command line + browser workflow. Allow to open multiple web pages with predefined URLs.
     tags: ["open-source", "hobby", "cli-tool"]
@@ -61,7 +61,7 @@ projects:
   - name: Observer
     logo: /images/sections/projects/observer.png
     role: Developer
-    timeline: "February 2021 - Present"
+    timeline: "December 2019 - July 2020"
     url: https://chutommy.com/observer
     summary: Software for a reliable face recognition and face tracking written in Go. Deployable on Raspberry Pi.
     tags: ["academic", "open-source", "iot"]
