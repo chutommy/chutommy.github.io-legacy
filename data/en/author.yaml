@@ -1,0 +1,16 @@
+name: "Tommy Chu"
+nickname: "Tommy"
+
+greeting: "Hi, I am"
+image: "/images/author/profile-bw.jpg"
+
+contactInfo:
+  email: "pro@chutommy.com"
+  phone: "+420 770 653 128"
+
+summary:
+  - Software Engineer
+  - Open-Source Contributor
+  - Technology Enthusiast
+  - Backend Developer
+  - Good Guy ;)
