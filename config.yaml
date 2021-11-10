@@ -22,14 +22,49 @@ params:
 
   enableBlogPost: false
   enableTOC: true
-
-  newsletter:
-    enable: true
-    provider: mailchimp
-    mailchimpURL: https://chutommy.us20.list-manage.com/subscribe/post?u=a1ad669a5cd0d2d47d7ad7e0c&amp;id=ee12979da8
+  enableTags: true
 
   background: /images/site/bg.png
   logo:
     main: /images/site/main.png
     inverted: /images/site/inverted.png
     favicon: /images/site/main.png
+
+  features:
+    portfolio:
+      enable: true
+    blog:
+      enable: true
+      shareButtons:
+        facebook: true
+        twitter: true
+        linkedin: true
+        reddit: true
+        email: true
+#        whatsapp: true
+#        tumblr: true
+#        pocket: true
+#        diaspora: true
+#        mastodon: true
+
+    notes:
+      enable: true
+
+  footer:
+    enable: true
+#    Put your template in "layouts/partials" folder of your repo.
+#    template: footer.html
+    navigation:
+      enable: true
+    contactMe:
+      enable: true
+    credentials:
+      enable: false
+
+    newsletter:
+      enable: true
+      provider: mailchimp
+      mailchimpURL: https://chutommy.us20.list-manage.com/subscribe/post?u=a1ad669a5cd0d2d47d7ad7e0c&amp;id=ee12979da8
+
+    disclaimer:
+      enable: false
