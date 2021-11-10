@@ -38,7 +38,7 @@ skills:
   - name: Redis
     logo: "/images/sections/skills/redis.svg"
     summary: "
-    Enjoying caching with Redis if performance is the number one priority."
+    Storing data in Redis for the best performance. Enjoy caching in both personal and professional development."
     url: "https://redis.io"
 
   - name: MySQL
