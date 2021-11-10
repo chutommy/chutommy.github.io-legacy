@@ -1,11 +1,10 @@
-# section information
 section:
   name: Experiences
   id: experiences
   enable: true
   weight: 4
   showOnNavbar: true
-  hideTitle: true
+#  hideTitle: true
 
 # Your experiences
 experiences:
@@ -13,11 +12,11 @@ experiences:
       name: Project Website
       url: "https://chutommy.com/observer"
       location: Gymnázium Budějovická
-      overview: Engineered a Raspberry Pi face tracking device using Go and OpenCV 4 technology.
+      overview: Engineered a Raspberry Pi face tracking device using Go language and OpenCV 4 technology.
     positions:
       - designation: Project Observer Engineer
-        start: Nov 2019
-        end: June 2020
+        start: Oct 2019
+        end: July 2020
         responsibilities:
           - Design and construct the skeleton of the device.
           - Calculate movements and ensure cooperation of the servomotors.
@@ -29,7 +28,7 @@ experiences:
       name: Web application
       url: "https://chutommy.com/smart-passwd"
       location: Prague
-      overview: Developed and deployed a full fledged website for smart and strong password generating.
+      overview: Developed and deployed a full fledged website for generating smart and strong passwords.
     positions:
       - designation: SmartPasswd Developer
         start: June 2020
@@ -39,7 +38,7 @@ experiences:
           - Draft and apply the UX/UI design principles.
           - Write CI/CD and full coverage tests.
           - Optimize performance and integrate the PWA.
-          - Implement server operations as a WebAssembly code.
+          - Implement server-side operations in the WebAssembly (client-side).
 
   - company:
       name: GitHub

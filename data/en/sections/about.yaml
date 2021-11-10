@@ -6,45 +6,30 @@ section:
   showOnNavbar: true
   template: sections/about.html
 
-# designation
 designation: Software Engineer
-# company information
 #company:
-#  name: Home
-#  url: "#about"
+#  name: Example Co.
+#  url: "https://www.example.com"
 
-resume: "files/resume.pdf"
+#resume: "files/resume.pdf"
 
-# a summary
 summary: "
-I'm a passionate self-taught software engineer. I built mainly back-end services
-using [Go](https://golang.org/). My projects help businesses to meet their clients' requirements.
-My services solve both general and specific business problems. I'm a big fan of
-[Open Source](https://github.com/chutommy) projects that I'm very happy to contribute to, especially if
-I use them on a daily basis.
-
-***
-
-**I'm in the habit of writing quality and reliable code:**
-
-* I build **scalable** and **easy to maintain** services through **clean** and **carefully crafted** code
+I'm a passionate self-taught **software engineer**. I try to target and solve both public and business problems.
+My goal is to **change people's lives for the better** by developing systems that **make complex tasks simple**.
 
 
-* I deliver **fast** and **reliable** software using **modern** technologies and approaches
-
-* I follow **best** practices and principles to achieve **rock-solid** codebases
+I design **software architectures** and build **back-end services** using Go language.
+I'm also a big fan of **open-source software** that I'm always happy to contribute to.
 "
 
-# social links
-# use font-awesome for the icons
 socialLinks:
   - name: Github
     icon: "fab fa-github"
     url: "https://github.com/chutommy"
 
-  #  - name: Stack Overflow
-  #    icon: "fab fa-stack-overflow"
-  #    url: "https://stackoverflow.com/users/13022894/tommy?tab=profile"
+  - name: Stack Overflow
+    icon: "fab fa-stack-overflow"
+    url: "https://stackoverflow.com/users/13022894/tommy-chu"
 
   - name: Posts
     icon: "fas fa-blog"
@@ -58,9 +43,6 @@ socialLinks:
     icon: "fas fa-envelope"
     url: "tommychu2256@gmail.com"
 
-# soft skills
-# the percentage between 50 to 100 with 5 intervals
-# currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
   - name: Teamwork
     percentage: 100
@@ -74,7 +56,7 @@ softSkills:
     percentage: 100
     color: orange
 
-  - name: Fast Learner
+  - name: Fast Learning
     percentage: 100
     color: green
 

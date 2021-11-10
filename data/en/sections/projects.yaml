@@ -6,7 +6,6 @@ section:
   showOnNavbar: true
   # hideTitle: true
 
-# filter buttons
 buttons:
   - name: All
     filter: "all"
@@ -20,11 +19,11 @@ buttons:
 projects:
   - name: SmartPasswd
     logo: /images/sections/projects/passwd.png
-    role: Developer
+    role: Developer / Designer
     timeline: "June - September 2020"
     url: https://chutommy.com/smart-passwd
     summary: Smart password generator of extremely safe and yet very easy to remember passwords.
-    tags: ["academic", "open-source", "security"]
+    tags: [ "academic", "open-source", "security" ]
 
   - name: Siu CLI
     logo: /images/sections/projects/siu.png
@@ -32,15 +31,15 @@ projects:
     timeline: "April - June 2020"
     url: https://github.com/chutommy/siu-cli
     summary: Productivity CLI tool to speed up the command line + browser workflow. Allow to open multiple web pages with predefined URLs.
-    tags: ["open-source", "hobby", "cli-tool"]
+    tags: [ "open-source", "hobby", "cli-tool" ]
 
   - name: prOndru
     logo: /images/sections/projects/prondru.png
     role: Developer
     timeline: "January 2021"
     url: https://chutommy.com/prondru
-    summary: CLI tool to interract with the Office of Scientific and Technical Information API.
-    tags: ["hobby", "cli-tool", "open-source", "api"]
+    summary: CLI tool to interract with the API of the Office of Scientific and Technical Information.
+    tags: [ "hobby", "cli-tool", "open-source", "api" ]
 
   - name: Toha
     logo: /images/sections/projects/toha.png
@@ -48,7 +47,7 @@ projects:
     timeline: "March 2021 - Present"
     repo: https://github.com/hugo-toha/toha
     summary: A Hugo theme for a personal portfolio with minimalist design and responsiveness.
-    tags: ["hobby", "hugo-theme", "open-source"]
+    tags: [ "hobby", "hugo-theme", "open-source" ]
 
   - name: sqlc
     logo: /images/sections/projects/sqlc.png
@@ -56,15 +55,15 @@ projects:
     timeline: "February 2021 - Present"
     repo: https://github.com/kyleconroy/sqlc
     summary: Generator of the fully-type safe idiomatic Go code from SQL.
-    tags: ["open-source", "dev-tool", "cloud"]
+    tags: [ "open-source", "dev-tool", "cloud" ]
 
   - name: Observer
     logo: /images/sections/projects/observer.png
-    role: Developer
+    role: Engineer / Developer
     timeline: "December 2019 - July 2020"
     url: https://chutommy.com/observer
-    summary: Software for a reliable face recognition and face tracking written in Go. Deployable on Raspberry Pi.
-    tags: ["academic", "open-source", "iot"]
+    summary: Software for a reliable face recognition and face tracking RPi devices written in Go.
+    tags: [ "academic", "open-source", "iot" ]
 
   - name: Rand
     logo: images/sections/projects/rand.png
@@ -72,12 +71,12 @@ projects:
     timeline: "August 2020 - Present"
     url: https://chutommy.com/rand
     summary: Clean and easy to use Go random package with a true random generator.
-    tags: ["hobby", "open-source", "go-package"]
+    tags: [ "hobby", "open-source", "go-package" ]
 
   - name: Babiš Calculator
     logo: images/sections/projects/babis.png
     role: Contributor
     timeline: "April 2021"
     url: https://chutommy.com/babis-calculator
-    summary: Small app that displays how much money Andrej Babiš gained since the user started the page.
-    tags: ["hobby", "open-source"]
+    summary: Small app that displays how much money Andrej Babiš gains.
+    tags: [ "hobby", "open-source" ]

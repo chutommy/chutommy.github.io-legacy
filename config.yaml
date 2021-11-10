@@ -1,44 +1,34 @@
-baseURL: https://www.chutommy.com
+baseURL: "https://www.chutommy.com"
 
 languageCode: en-us
 title: "Tommy Chu"
 theme: "toha"
 
-# manage languages (https://gohugo.io/content-management/multilingual/)
 languages:
   en:
     languageName: English
     weight: 1
 
-# control TOC depth
 markup:
   tableOfContents:
     startLevel: 2
     endLevel: 6
     ordered: false
 
-# enable global emoji support
 enableEmoji: true
 
-# enable analytics
-googleAnalytics: "G-0YJQKTMK6Y"
-
-# site parameters
 params:
-  gitRepo: https://github.com/chutommy/chutommy.github.io/tree/main
+  gitRepo: https://github.com/chutommy/chutommy.github.io
 
   enableBlogPost: false
   enableTOC: true
 
-# provide newsletter configuration
   newsletter:
-    enable: false
+    enable: true
+    provider: mailchimp
+    mailchimpURL: https://chutommy.us20.list-manage.com/subscribe/post?u=a1ad669a5cd0d2d47d7ad7e0c&amp;id=ee12979da8
 
-# site parameters
   background: /images/site/bg.png
-
-# The inverted logo will be used in the initial transparent navbar and
-# the main logo will be used in the non-transparent navbar.
   logo:
     main: /images/site/main.png
     inverted: /images/site/inverted.png

@@ -1,9 +1,6 @@
-# Copyright Notice
-copyright: Copyright © 2021 by Tommy Chu.
-
-# meta description for the site
-description: Tommy Chu - Software Engineer, Tech Enthusiast, Good Guy
+copyright: © 2020 Copyright Tommy Chu.
+description: Portfolio of Tommy Chu.
 
 customMenus:
-#  - name: Source
-#    url: https://github.com/chutommy/chutommy.github.io
+  - name: GitHub
+    url: https://github.com/chutommy

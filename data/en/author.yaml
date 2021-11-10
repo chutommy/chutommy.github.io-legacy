@@ -1,17 +1,16 @@
 name: "Tommy Chu"
 nickname: "Tommy"
-image: /images/author/profile-bw.jpg
-
-contactInfo:
-  email: "tommychu2256@gmail.com"
-  phone: "+420 770 653 128"
 
 greeting: "Hi, I am"
+image: "/images/author/profile-bw.jpg"
+
+contactInfo:
+  email: "pro@chutommy.com"
+  phone: "+420 770 653 128"
 
 summary:
-  - I am a backend developer
-  - I am a software engineer
-  - I enjoy contributing to open-source
-  - I am a technology enthusiast
-  - I love learning new skills
-  - I enjoy exploring new technologies
+  - Software Engineer
+  - Open-Source Contributor
+  - Technology Enthusiast
+  - Backend Developer
+  - Good Guy ;)

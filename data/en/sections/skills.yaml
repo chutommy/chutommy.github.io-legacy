@@ -6,76 +6,58 @@ section:
   showOnNavbar: true
 #  hideTitle: false
 
-# skills
 skills:
   - name: Go
     logo: "/images/sections/skills/go.svg"
     summary: "
     Using as the main language for development. Capable of writing scalable, reliable and maintainable
-    programs. Experienced in developing all kind of APIs and microservices.
-    "
-    url: "https://golang.org/"
+    programs. Experienced in developing all kind of APIs and microservices."
+    url: "https://golang.org"
 
   - name: gRPC
     logo: "/images/sections/skills/grpc.svg"
     summary: "
-    Capable of properly implementing independent and maintainable gRPC microservices with great performance and low
-    network cost.
-    "
-    url: "https://grpc.io/"
+    Capable of properly implementing independent and maintainable gRPC microservices with a great performance and low
+    network cost."
+    url: "https://grpc.io"
 
   - name: Docker
     logo: "/images/sections/skills/docker.svg"
     summary: "
-    Dockerizing everything that should be containerized. Used for ease of deployment and to prevent headaches.
-    Also use various dockerized tools for the development.
-    "
-    url: "https://www.docker.com/"
+    Using for the ease of deployment and to prevent headaches. Also familiar with various dockerized tools
+    for the development."
+    url: "https://www.docker.com"
 
   - name: Postgres
     logo: "/images/sections/skills/postgres.svg"
     summary: "
-    Experienced in designing and deploying Postgres databases. Capable of smooth, maintainable and safe integration
-    into Go applications.
-    "
-    url: "https://www.postgresql.org/"
+    Familiar with designing and deploying Postgres databases. Capable of smooth, maintainable and safe integration
+    with Go applications."
+    url: "https://www.postgresql.org"
 
   - name: Redis
     logo: "/images/sections/skills/redis.svg"
     summary: "
-    Enjoying caching with Redis (mainly in personal projects). Always happy to implement Redis if it is required
-    or if the performance is the number one priority.
-    "
-    url: "https://redis.io/"
+    Enjoying caching with Redis if performance is the number one priority."
+    url: "https://redis.io"
 
   - name: MySQL
     logo: "/images/sections/skills/mysql.svg"
     summary: "
-    Took part in developments of services with MySQL databases. MySQL performs extremely well in most cases.
-    It is reliable and well-known among developers.
-    "
-    url: "https://www.mysql.com/"
+    Took part in developments of services with MySQL databases. Using MySQL in most cases since
+    it is reliable and well-known among all developers."
+    url: "https://www.mysql.com"
 
   - name: Git
     logo: "/images/sections/skills/git.svg"
     summary: "
     Experienced with git based development. Contributed to various open-source projects. Effective and proficient
-    in Github environment (PRs, Actions, bots, etc.).
-    "
-    url: "https://git-scm.com/"
-
-  - name: DigitalOcean
-    logo: "/images/sections/skills/do.svg"
-    summary: "
-    Capable of deploying highly-available services on DigitalOcean cloud computing platform and managing
-    and scaling the infrastructure.
-    "
-    url: "https://www.digitalocean.com/"
+    in Github environment (PRs, Actions, bots, etc.)."
+    url: "https://git-scm.com"
 
   - name: Linux
     logo: "/images/sections/skills/linux.svg"
     summary: "
     The main operating system for both personal and professional use. Capable of deploying and managing servers
-    with most of the major distros such as Ubuntu, Debian, or Fedora.
-    "
-    url: "https://www.linux.org/"
+    with most of the major distros such as Ubuntu, Debian, or Fedora."
+    url: "https://www.linux.org"
