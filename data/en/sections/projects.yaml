@@ -22,7 +22,7 @@ projects:
     role: Developer / Designer
     timeline: "June - September 2020"
     url: https://chutommy.com/smart-passwd
-    summary: Smart password generator of extremely safe and yet very easy to remember passwords.
+    summary: Smart generator of passwords that are extremely safe and yet easy to remember.
     tags: [ "academic", "open-source", "security" ]
 
   - name: Siu CLI
