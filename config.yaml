@@ -62,9 +62,7 @@ params:
       enable: false
 
     newsletter:
-      enable: true
-      provider: mailchimp
-      mailchimpURL: https://chutommy.us20.list-manage.com/subscribe/post?u=a1ad669a5cd0d2d47d7ad7e0c&amp;id=ee12979da8
+      enable: false
 
     disclaimer:
       enable: false
