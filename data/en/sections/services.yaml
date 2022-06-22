@@ -11,26 +11,25 @@ skills:
   - name: Web Services Development
     logo: "/images/sections/services/web-service.svg"
     summary: "
-  Develop custom web services from start to finish with a clean, readable and maintainable code.
-  Always thoroughly documented and tested."
+    Develop custom web services from start to finish with a clean, readable and maintainable code.
+    Always thoroughly documented and tested."
 
   - name: Database Design and Management
     logo: "/images/sections/services/database.svg"
     summary: "
-  Design and manage databases in most popular DBMSs such as Postgres, MySQL, Mongo or Redis."
+    Design and manage databases in most popular DBMSs such as Postgres, MySQL, Mongo or Redis."
 
   - name: CLI Application Development
     logo: "/images/sections/services/cli-app.svg"
     summary: "
-  Develop fast and powerful modern CLI applications with well documented and easy-to-use Unix-like commands."
+    Develop fast and powerful modern CLI applications with well documented and easy-to-use Unix-like commands."
 
   - name: Web Scraping
     logo: "/images/sections/services/web-scraping.svg"
     summary: "
-  Build legitimate bots to crawl website(s) and scrap required data for data processing.
-  Always robots exclusion protocol friendly."
+    Build web crawlers for data analysis and machine learning purposes. Bots are modular and easy to maintain."
 
   - name: Cloud Application Deployment
     logo: "/images/sections/services/cloud-computing.svg"
     summary: "
-  Deploy services in containers to the Cloud such as Google Cloud Platform or Digital Ocean."
+    Deploy services in containers to the Cloud such as Google Cloud Platform or Digital Ocean."
