@@ -1,4 +1,4 @@
-baseURL: "https://www.chutommy.com"
+baseURL: "https://chutommy.com/"
 
 languageCode: en-us
 title: "Tommy Chu"
@@ -19,12 +19,21 @@ enableEmoji: true
 
 params:
   gitRepo: https://github.com/chutommy/chutommy.github.io
+  gitBranch: source
 
-  enableBlogPost: false
+  enableBlogPost: true
   enableTOC: true
   enableTags: true
 
-  background: /images/site/bg.png
+  topNavbar:
+    maxVisibleSections: 5
+
+  darkMode:
+    provider: darkreader
+    enable: false
+    default: system
+
+  background: /images/site/bg.jpg
   logo:
     main: /images/site/main.png
     inverted: /images/site/inverted.png
@@ -33,6 +42,7 @@ params:
   features:
     portfolio:
       enable: true
+
     blog:
       enable: false
       shareButtons:
@@ -40,20 +50,22 @@ params:
         twitter: true
         linkedin: true
         reddit: true
+        whatsapp: true
         email: true
-#        whatsapp: true
-#        tumblr: true
-#        pocket: true
-#        diaspora: true
-#        mastodon: true
+
+    comment:
+      enable: false
 
     notes:
       enable: true
 
+    analytics:
+      enabled: true
+      google:
+        id: G-KJLLCGTNQQ
+
   footer:
     enable: true
-#    Put your template in "layouts/partials" folder of your repo.
-#    template: footer.html
     navigation:
       enable: true
     contactMe:
