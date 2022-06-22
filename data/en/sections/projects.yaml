@@ -11,6 +11,8 @@ buttons:
     filter: "all"
   - name: Open Source
     filter: "open-source"
+  - name: Professional
+    filter: "professional"
   - name: Academic
     filter: "academic"
   - name: Hobby
@@ -22,15 +24,23 @@ projects:
     role: Developer / Designer
     timeline: "June - September 2020"
     url: https://chutommy.com/smart-passwd
-    summary: Smart generator of passwords that are extremely safe and yet easy to remember.
+    summary: Smart generator of safe and easy-to-remember passwords (CS50 project).
     tags: [ "academic", "open-source", "security" ]
+
+  - name: EET Gateway
+    logo: /images/sections/projects/eetgateway.png
+    role: Architect / Lead Developer / Designer
+    timeline: "May 2021 - May 2022"
+    url: https://github.com/chutommy/eetgateway
+    summary: REST API proxy gateway for the EET system (Czech Electronic Registration of Sales).
+    tags: [ "professional", "open-source", "security", "finance" ]
 
   - name: Siu CLI
     logo: /images/sections/projects/siu.png
     role: Developer
     timeline: "April - June 2020"
     url: https://github.com/chutommy/siu-cli
-    summary: Productivity CLI tool to speed up the command line + browser workflow. Allow to open multiple web pages with predefined URLs.
+    summary: Productivity CLI tool to speed up the CLI-browser workflow. Allow to quickly open web pages with predefined URLs.
     tags: [ "open-source", "hobby", "cli-tool" ]
 
   - name: prOndru
@@ -46,7 +56,7 @@ projects:
     role: Contributor
     timeline: "March 2021 - Present"
     repo: https://github.com/hugo-toha/toha
-    summary: A Hugo theme for a personal portfolio with minimalist design and responsiveness.
+    summary: A Hugo theme for a responsve personal portfolio website with minimalist design.
     tags: [ "hobby", "hugo-theme", "open-source" ]
 
   - name: sqlc
@@ -55,28 +65,28 @@ projects:
     timeline: "February 2021 - Present"
     repo: https://github.com/kyleconroy/sqlc
     summary: Generator of the fully-type safe idiomatic Go code from SQL.
-    tags: [ "open-source", "dev-tool", "cloud" ]
+    tags: [ "open-source", "dev-tool", "cloud", "professional" ]
 
   - name: Observer
     logo: /images/sections/projects/observer.png
-    role: Engineer / Developer
+    role: Architect / Developer / Designer
     timeline: "December 2019 - July 2020"
     url: https://chutommy.com/observer
     summary: Software for a reliable face recognition and face tracking RPi devices written in Go.
     tags: [ "academic", "open-source", "iot" ]
 
   - name: Rand
-    logo: images/sections/projects/rand.png
+    logo: /images/sections/projects/rand.png
     role: Developer
-    timeline: "August 2020 - Present"
+    timeline: "August 2020"
     url: https://chutommy.com/rand
     summary: Clean and easy to use Go random package with a true random generator.
-    tags: [ "hobby", "open-source", "go-package" ]
+    tags: [ "hobby", "open-source", "go-package", "professional" ]
 
   - name: Babiš Calculator
-    logo: images/sections/projects/babis.png
+    logo: /images/sections/projects/babis.png
     role: Contributor
     timeline: "April 2021"
     url: https://chutommy.com/babis-calculator
-    summary: Small app that displays how much money Andrej Babiš gains.
+    summary: Web app that visualizes how much money does Andrej Babiš make.
     tags: [ "hobby", "open-source" ]

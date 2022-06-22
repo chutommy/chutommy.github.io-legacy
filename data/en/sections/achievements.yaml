@@ -1,0 +1,19 @@
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # hideTitle: true
+
+achievements:
+  - title: Award for success in Mathematics+
+    image: /images/sections/achievements/senat.jpg
+    summary: "Ceremonial award of a diploma for excellent success in the Mathematics+ exam in the Senate of the
+    Parliament. Awarded by RNDr. Miloš Vystrčil, the President of the Senate of the Czech Republic."
+  - title: Holder of the Duke of Edinburgh's Award
+    image: /images/sections/achievements/dofe.jpg
+    summary: "Participant of the Duke of Edinburgh's International Award in 2018."
+  - title: CS50 Course Graduate
+    image: /images/sections/achievements/cs50.png
+    summary: "CS50 certificate awarded from Cambridge, Massachusetts - Harvard University in 2020."

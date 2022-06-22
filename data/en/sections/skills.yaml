@@ -10,22 +10,20 @@ skills:
   - name: Go
     logo: "/images/sections/skills/go.svg"
     summary: "
-    Using as the main language for development. Capable of writing scalable, reliable and maintainable
-    programs. Experienced in developing all kind of APIs and microservices."
+    Capable of writing scalable, reliable and maintainable applications. Experienced in developing advanced APIs and
+    microservices for large scale projects."
     url: "https://golang.org"
 
   - name: gRPC
     logo: "/images/sections/skills/grpc.svg"
     summary: "
-    Capable of properly implementing independent and maintainable gRPC microservices with a great performance and low
-    network cost."
+    Experienced in implementing gRPC microservices with a great performance, low network cost and high maintainability."
     url: "https://grpc.io"
 
   - name: Docker
     logo: "/images/sections/skills/docker.svg"
     summary: "
-    Using for the ease of deployment and to prevent headaches. Also familiar with various dockerized tools
-    for the development."
+    Using on a daly basis both in production and for development purposes."
     url: "https://www.docker.com"
 
   - name: Postgres
@@ -38,14 +36,13 @@ skills:
   - name: Redis
     logo: "/images/sections/skills/redis.svg"
     summary: "
-    Storing data in Redis for the best performance. Enjoy caching in both personal and professional development."
+    Capable of implementing Redis for basic caching or as a message broker."
     url: "https://redis.io"
 
   - name: MySQL
     logo: "/images/sections/skills/mysql.svg"
     summary: "
-    Took part in developments of services with MySQL databases. Using MySQL in most cases since
-    it is reliable and well-known among all developers."
+    Very familiar with designing databases and deploying MySQL databases - used in most personal projects."
     url: "https://www.mysql.com"
 
   - name: Git

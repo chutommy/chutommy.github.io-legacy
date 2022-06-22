@@ -6,7 +6,6 @@ section:
   showOnNavbar: true
 #  hideTitle: true
 
-# Your experiences
 experiences:
   - company:
       name: Project Website
@@ -19,9 +18,9 @@ experiences:
         end: July 2020
         responsibilities:
           - Design and construct the skeleton of the device.
-          - Calculate movements and ensure cooperation of the servomotors.
-          - Wire all IoT parts up and set the system to be fully compatible with the software.
-          - Code all the logic behind the bot's behaviour and deploy it to the RPi.
+          - Provide the calculation of movements and ensure cooperation of the servomotors.
+          - Responsible for wiring all IoT parts and complete system compatibility.
+          - Design the architecture and code the logic behind the robot's behaviour.
           - Write a comprehensive documentation of the creation process from start to finish.
 
   - company:
@@ -36,7 +35,7 @@ experiences:
         responsibilities:
           - Design and implement the software architecture.
           - Draft and apply the UX/UI design principles.
-          - Write CI/CD and full coverage tests.
+          - Write CI/CD and a comprehensive test suite wth full coverage.
           - Optimize performance and integrate the PWA.
           - Implement server-side operations in the WebAssembly (client-side).
 
@@ -44,9 +43,9 @@ experiences:
       name: GitHub
       url: "https://www.github.com/chutommy"
       location: Remote
-      overview: Contribute to both private and open-source projects.
+      overview: Contributing to both private and open-source projects.
     positions:
-      - designation: Open Source Contributor
+      - designation: Github Development Program Member
         start: Dec 2020
         # end: Jan 2021
         responsibilities:
@@ -54,3 +53,19 @@ experiences:
           - Design and implement new features.
           - Suggest new and alternative solutions.
           - Discover and fix bugs, solve issues.
+
+  - company:
+      name: EET Gateway
+      url: "https://www.github.com/chutommy/eetgateway"
+      location: Prague
+      overview: "Developed a comprehensive REST API proxy gateway for the EET system (system of the electronic records
+      of cash sales of goods and services)."
+    positions:
+      - designation: Software Architect and Lead Developer
+        start: May 2021
+        end: May 2022
+        responsibilities:
+          - Made market research of Czech Electronic Registration of Sales.
+          - Design the EET Gateway architecture and software solution.
+          - Responsible for the top-notch security design.
+          - Implement the core EETG system domain.
