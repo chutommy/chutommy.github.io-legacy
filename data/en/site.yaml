@@ -1,6 +1,15 @@
-copyright: Copyright © 2021 Tommy Chu.
-description: Portfolio of Tommy Chu.
+copyright: Copyright © 2022 Tommy Chu.
+description: Portfolio and personal blog of Tommy Chu.
 
 customMenus:
   - name: GitHub
     url: https://github.com/chutommy
+    hideFromNavbar: false
+    showOnFooter: true
+
+openGraph:
+  title: Tommy Chu's personal website
+  type: website
+  description: Portfolio and personal blog of Tommy Chu.
+  image: /images/author/me.png
+  url: https://chutommy.com

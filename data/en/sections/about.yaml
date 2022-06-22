@@ -6,20 +6,21 @@ section:
   showOnNavbar: true
   template: sections/about.html
 
-designation: Software Engineer
-#company:
-#  name: Example Co.
-#  url: "https://www.example.com"
+designation: Data Science St.
+company:
+  name: CTU
+  url: "https://www.cvut.cz/en"
 
 #resume: "files/resume.pdf"
 
 summary: "
-I'm a passionate self-taught **software engineer**. I try to target and solve both public and business problems.
-My goal is to **change people's lives for the better** by developing systems that **make complex tasks simple**.
+I'm a tech enthusiast and a passionate self-taught software engineer. I'm a big fan of mathematics, probability and
+statistics. I'm a huge supporter of open-source, because I absolutely adore innovation through collaboration and I
+believe it is the recipy for achieving incredible things.
 
 
-I design **software architectures** and build **back-end services** using Go language.
-I'm also a big fan of **open-source software** that I'm always happy to contribute to.
+In my free tme, I enjoy sports, music or I'm working on my personal side projects or growing my data science skills.
+I love good humor and time spent with my awesome friends or lovely family.
 "
 
 socialLinks:
@@ -31,9 +32,17 @@ socialLinks:
     icon: "fab fa-stack-overflow"
     url: "https://stackoverflow.com/users/13022894/tommy-chu"
 
+  - name: Kaggle
+    icon: "fa-brands fa-kaggle"
+    url: "https://www.kaggle.com/chutommy"
+
   - name: Posts
     icon: "fas fa-blog"
     url: "https://chutommy.com/posts/"
+
+  - name: LinkedIn
+    icon: "fab fa-linkedin"
+    url: "https://www.linkedin.com/in/chu-tommy/"
 
   #  - name: Work
   #    icon: "fas fa-briefcase"
